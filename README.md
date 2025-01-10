@@ -1,2 +1,1 @@
-git add README.md
-git commit -a -m "README File"
+This is the README file for 4700PAS.
